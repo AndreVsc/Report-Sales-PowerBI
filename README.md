@@ -8,4 +8,4 @@ To ensure you download the original PDF file (and not the GitHub preview page), 
 
 The image below shows exactly where to find the download button after clicking the file:
 
-![Download Instructions](./[image].png)
+![Download Instructions](./image.png)
